@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly
+dash
+scikit-learn
+torch
+numba
